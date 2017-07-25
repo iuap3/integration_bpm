@@ -68,7 +68,7 @@ UAP BPM系统有以下控件：
     </tr> 
     <tr> 
      <td> <p> 1 </p> </td> 
-     <td> <p> <img src="articles/bpm/2-/images/90a93.png"></p> </td> 
+     <td> <p> <img src="/articles/bpm/2-/images/90a93.png"></p> </td> 
      <td> <p> 启动 </p> </td> 
      <td> <p> 不指定启动流程实例的触发条件。该元素用于当流程实例要通过API启动的场景 </p> </td> 
     </tr> 
