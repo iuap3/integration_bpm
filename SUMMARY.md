@@ -1,4 +1,4 @@
-# Table of content
+# 业务流程管理（BPM）
 
 * [产品介绍](articles/bpm/1-/jieshao.md)
   * [产品概述](articles/bpm/1-/cpgs.md)
